@@ -1,21 +1,3 @@
-/** 
-//Para poder realizar lo que es la programacion orientada a objetos POO
-//Esta debe de ser dentro de un objeto {};
-
-let objetoPersona = {
-    nombre: 'Arturo',
-    email: 'arturo@gmail.com',
-    direccion: {
-        calle: 'Paseo de los sabinos',
-        numero: 2,
-    },
-    activo: true,
-    recuperarClave: function (){
-        console.log("Recuperando clave");
-    }
-};
-*/
-
 //Cuando es una cosntante esa no puede ser modificada a menos que 
 // sea un objeto se pueden quitar o modificar elementos del objeto
 
