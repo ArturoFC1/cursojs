@@ -1,5 +1,6 @@
 /** 
- * Crear una funcion en el cual identifique las resoluciones adquiridas, pueden ser mayor pero no menor
+
+* Crear una funcion en el cual identifique las resoluciones adquiridas, pueden ser mayor pero no menor
 Nombre: ancho x alto
 8K 7680 x 4320
 4K 3840 x 2160
