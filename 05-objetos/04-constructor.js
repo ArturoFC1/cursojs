@@ -6,4 +6,4 @@ function Usuario(){  //Cuando se crean funciones constructoras se utiliza conven
 }
 
 let usuario = new Usuario();
-console.log(usuario);
+console.log(usuario); 
